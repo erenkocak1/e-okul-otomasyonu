@@ -1,6 +1,6 @@
 
 ***********************************************  
-w/ [@enessgn](https://github.com/enessgn)
+Developers [@enessgn](https://github.com/enessgn)
 [@feneskrzc](https://github.com/feneskrzc)
 [@erenkocak1](https://github.com/erenkocak1)
 ***********************************************
