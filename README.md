@@ -1,6 +1,6 @@
-E-School Automation System
+E-Okul Automation System
 
-This project is an **E-School Automation System** developed to track student attendance, allow teachers to add and manage courses, and help administrators manage the school more efficiently.
+This project is an **E-Okul Automation System** developed to track student attendance, allow teachers to add and manage courses, and help administrators manage the school more efficiently.
 
 ## 📌 Features
 - Student attendance tracking (Warning for absences over 5 hours)
