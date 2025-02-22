@@ -1,3 +1,12 @@
+                   👨‍💻 Developers
+***********************************************
+  
+[@enessgn](https://github.com/enessgn)
+[@feneskrzc](https://github.com/feneskrzc)
+[@erenkocak1](https://github.com/erenkocak1)
+
+***********************************************
+
 E-Okul Automation System
 
 This project is an **E-Okul Automation System** developed to track student attendance, allow teachers to add and manage courses, and help administrators manage the school more efficiently.
